@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Doan Thanh Binh
-- 👀 I’m interested in nodejs, nestjs and reacjs
+- 👀 I’m interested in nodejs, nestjs and reactjs
 - 📫 contact me:
    phone: (084) 0879806806
    email: binh.quatest2@gmail.com
