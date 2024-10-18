@@ -18,6 +18,17 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white)
+
+---
+
 ## 🏆 Trophy
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=binhnexle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
@@ -28,6 +39,19 @@
 
 Here are some static measurements of my contributions:
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=binhnexle&show_icons=true&theme=dracula)
+![Binh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binhnexle&show_icons=true&theme=dracula)
+
+---
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnexle&layout=compact&theme=dracula)
+
+---
+
+## 📈 Contributions Graph
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=binhnexle&theme=dracula)
+
 
 
