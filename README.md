@@ -43,9 +43,11 @@ Here are some static measurements of my contributions:
 
 ---
 
-## 📈 Contributions Graph
+## 🏆 Community Profile
 
-![Binh's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=binhnexle&theme=dracula)
+![Community Profile](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=binhnexle&theme=dracula)
+![Community Profile](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=binhnexle&theme=dracula)
+
 
 
 
