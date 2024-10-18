@@ -40,14 +40,3 @@
 Here are some static measurements of my contributions:
 
 ![Binh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binhnexle&show_icons=true&theme=dracula)
-
----
-
-## 📈 Contributions Graph
-
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=binhnexle&theme=dracula)
-
-
-
-
-
