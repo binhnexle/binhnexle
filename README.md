@@ -45,7 +45,7 @@ Here are some static measurements of my contributions:
 
 ## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnexle&layout=compact&theme=dracula&token=YOUR_GITHUB_TOKEN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnexle&layout=compact&theme=dracula&token=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)
 
 ---
 
