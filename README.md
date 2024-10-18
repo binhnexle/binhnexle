@@ -17,7 +17,17 @@
 - 💬 **Skype:** [Join on Skype](https://join.skype.com/invite/vID5uxOvYvPh)
 
 ---
-   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=binhnexle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Trophy
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=binhnexle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Static Measurement
+
+Here are some static measurements of my contributions:
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=binhnexle&show_icons=true&theme=dracula)
+
 
