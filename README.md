@@ -31,7 +31,7 @@
 
 ## 🏆 Trophy
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=binhnexle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Binh's Trophy](https://github-profile-trophy.vercel.app/?username=binhnexle&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -45,7 +45,8 @@ Here are some static measurements of my contributions:
 
 ## 📈 Contributions Graph
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=binhnexle&theme=dracula)
+![Binh's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=binhnexle&theme=dracula)
+
 
 
 
