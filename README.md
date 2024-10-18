@@ -43,11 +43,9 @@ Here are some static measurements of my contributions:
 
 ---
 
-## 🏆 Community Profile
+## ⌚ Wakatime Stats
 
-![Community Profile](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=binhnexle&theme=dracula)
-![Community Profile](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=binhnexle&theme=dracula)
-
+![Wakatime](https://wakatime.com/share/@your_username/your_wakatime_url.svg)
 
 
 
