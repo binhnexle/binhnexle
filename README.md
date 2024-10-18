@@ -43,9 +43,10 @@ Here are some static measurements of my contributions:
 
 ---
 
-## ⌚ Wakatime Stats
+## 📈 Contributions Graph
 
-![Wakatime](https://wakatime.com/share/@your_username/your_wakatime_url.svg)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=binhnexle&theme=dracula)
+
 
 
 
