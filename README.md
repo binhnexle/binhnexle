@@ -1,9 +1,14 @@
 # 👋 Hi, I’m Doan Thanh Binh
 
 ## 👀 Interested in: 
-- **Node.js**
+- **Express.js**
 - **NestJS**
 - **ReactJS**
+- **NextJS**
+- **VueJS**
+- **NuxtJS**
+- **Restful API**
+- **GraphQl API**
 
 ## 📫 Contact me:
 - 📞 **Phone:** (084) 0879806806
